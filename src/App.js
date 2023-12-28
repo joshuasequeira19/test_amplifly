@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          What Is Love :3
+          Baby dont hurt me no more :3
         </a>
       </header>
     </div>
